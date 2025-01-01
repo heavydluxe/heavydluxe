@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @heavydluxe
+- 🌱 I’m currently learning programming - mostly with python.  I've worked in IT for years but never really taken the time to code 'til now.
+- 😄 I’m looking to collaborate on anything that will stretch me to learn.  I'm particularly interested in head-ier things like cellular automata, markets, datasci/ML/AI.  Though, if you had a rad game idea, I'll listen!
+- 📫 How to reach me >> heavydluxe@gmail.com
