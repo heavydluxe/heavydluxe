@@ -1,7 +1,5 @@
-Hi, I’m @heavydluxe
+2011 rm -rf'd PROD Award Winner
 
-I’m currently learning programming - mostly with python.  I've worked in IT for years but never really taken the time to code 'til now.  I'd be interested in collaborating on anything that will stretch me to learn.  
+I've worked in IT for years but never really taken the time to really learn programming 'til now. I've previously done a fair amount of shell scripting to solve simple problems and also worked with SQL/PL-SQL databases.
 
-I'm particularly interested in things like cellular automata, economics and markets, datasci/ML/AI.  To be clear, I'm not saying I have those skills... Just that I'm interested in those things. Though, if you had a rad game idea, I'll listen!
-
-Reach me >> heavydluxe@gmail.com
+I'm finally taking the plunge towards really learning to code - mostly in python with an eye towards to very trendy AI/ML/Data Science realms.  I have an interest in understanding finance and markets, too.
